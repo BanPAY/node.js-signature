@@ -1,0 +1,22 @@
+{
+  "name": "banpay_digital_signature",
+  "version": "1.0.0",
+  "description": "Banpay digital signature helper",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BanPAY/node.js-signature.git"
+  },
+  "author": "BanPAY",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BanPAY/node.js-signature/issues"
+  },
+  "homepage": "https://github.com/BanPAY/node.js-signature#readme",
+  "dependencies": {
+    "node-rsa": "^1.1.1"
+  }
+}
